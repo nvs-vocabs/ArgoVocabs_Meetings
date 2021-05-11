@@ -19,9 +19,12 @@ The structure of this repo is as follows:
 ```
 AVTT_meetings/
   yyyy-mm-dd-agenda.md 
+  yyyy-mm-dd-actions.md
   yyyy-mm-dd-minutes.md
+  
   
 telecons/
   yyyy-mm-dd-topic-agenda.md
+  yyyy-mm-dd-actions.md
   yyyy-mm-dd-topic-minutes.md
 ```
