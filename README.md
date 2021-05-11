@@ -25,6 +25,6 @@ AVTT_meetings/
   
 telecons/
   yyyy-mm-dd-topic-agenda.md
-  yyyy-mm-dd-actions.md
+  yyyy-mm-dd-topic-actions.md
   yyyy-mm-dd-topic-minutes.md
 ```
