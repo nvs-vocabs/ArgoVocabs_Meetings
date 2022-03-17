@@ -1,6 +1,6 @@
 # Structure
 
-The structure of directory is as follows:
+The structure of this directory is as follows:
 
 ```
   yyyy-mm-dd-agenda.md / yyyy-mm-dd-agenda.pdf
