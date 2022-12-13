@@ -1,11 +1,11 @@
 Agenda item | Action item | Responsibility | Task | Status
 --- | --- | --- | --- |---
 1| 1| BODC| Discuss option a) with BODC NVS leads| Internal meeting set up for 2022-11-14
-1| 2| Euro-Argo| Check whether option b) would be feasible from a GDAC point of view| 
+1| 2| Euro-Argo| Check whether option b) would be feasible from a GDAC point of view| It is possible to have separate treatment within the GDAC File cheker depending on mandatory, optional, deprecated but a link must be built to indicate that subtlety in NVS
 1| 3| BODC| Check CONTROLLER_BOARD status and what is blocking NVS transfer| 
 2| 4| BODC| Discuss workflow with BODC NVS leads to see if it needs reviewing. | Internal meeting set up for 2022-11-14
 2| 5| BODC| NVS Editor seems to be down: notify NVS team| Checked, and this is likely due to changes in permissions.
-2| 6| Euro-Argo| Remind workflow at ADMT| 
+2| 6| Euro-Argo| Remind workflow at ADMT| It was done by Thierry and Violetta. And Thierry took time to present the dashbord which is a nice overview
 2| 7| BODC| Update R27 (SENSOR_MODEL) with the new additions that are in the spreadsheet only| 
 3| 8| BODC| Review AVTT GitHub space, specifically the unique NVS collection - GitHub repository correspondence.| Internal meeting set up for 2022-11-14
 3| 9| BODC, Euro-Argo| Organise training of AVTT editors so they may update NVS collections.| Internal meeting set up for 2022-11-14
