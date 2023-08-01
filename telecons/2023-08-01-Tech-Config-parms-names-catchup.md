@@ -37,7 +37,7 @@ As proposed at latest AVTT meeting?
 
 As the community at the last AVTT meeting mentioned the preference of having pref label = alt label, we could do a blank update to action this. Need to be careful as some  netCDF variables get populated by pref label, whereas others by alt label.
 
-*** Template strings ***
+***Template strings***
 
 New collections for the template strings?
 
